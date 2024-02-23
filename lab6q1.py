@@ -36,3 +36,5 @@ x_best, f_best = hill_climbing(max_iterations, step_size, x_min, x_max)
 
 # Print the results
 print("Best solution found: x = {:.4f}, f(x) = {:.4f}".format(x_best, f_best))
+
+#https://github.com/Jason-Yuan/8PuzzleGameSovler.git
